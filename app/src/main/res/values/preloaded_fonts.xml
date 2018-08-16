@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/allerta</item>
+        <item>@font/archivo_narrow</item>
+        <item>@font/droid_sans_mono</item>
+        <item>@font/roboto_slab_thin</item>
+        <item>@font/sintony</item>
+        <item>@font/sintony_bold</item>
+        <item>@font/yantramanav</item>
+        <item>@font/yantramanav_thin</item>
+    </array>
+</resources>

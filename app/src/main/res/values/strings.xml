@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">IDENTITY SNITCH</string>
+    <string name="action_settings">Settings</string>
+    <string name="verify">What would you like to verify today?</string>
+    <string name="title_activity_professional">Verify Professional</string>
+    <string name="title_activity_certificate">Certificate Verification</string>
+    <string name="title_activity_business">Business Verification</string>
+    <string name="title_activity_product">Product Verification</string>
+    <string name="enter_id">Enter an ID Number to start</string>
+    <string name="verify_product">Verify a Product</string>
+    <string name="snitch_serial">Enter serial number to search</string>
+    <string name="verify_a_certificate">Verify a Certificate</string>
+    <string name="certificate_search">Enter a Certificate number to search</string>
+    <string name="verify_a_business">Verify a Business</string>
+    <string name="enter_a_business_name_to_search">Enter a business name to search</string>
+</resources>
